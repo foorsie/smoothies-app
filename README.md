@@ -1,6 +1,6 @@
 # smoothies
 
-> A Vue.js project
+> A Vue.js project from a course on Udemy
 
 ## Build Setup
 
